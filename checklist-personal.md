@@ -1,13 +1,13 @@
 # Personal checklist
 
-- [ ] Fill out design-notes checklist
-- [ ] Fill out learning-notes checklist
-- [ ] Fill out resources checklist
-- [ ] Fill out side-project checklist
+- [x] Fill out design-notes checklist - Completed 06/11/16
+- [x] Fill out learning-notes checklist - Completed 06/11/16
+- [x] Fill out resources checklist - Completed 06/11/16
+- [x] Fill out side-project checklist - Completed 06/12/16
 
 
 
-- [ ] Fill out weekly Review
+- [x] Fill out weekly Review
 - [ ] work through design-notes checklist
 - [ ] work through learning-notes checklist
 - [ ] work through resources checklist

@@ -3,7 +3,7 @@
 ## Airtable
 - [ ] Code Challenges & Interactive Learning
 - [ ] Free Code Camp Challenges
-- [ ] Resources
+- [x] Resources
 - [ ] Command Line
 - [ ] AJAX & JSON
 - [ ] Ruby
@@ -16,5 +16,5 @@
 - [ ] Programming General
 - [ ] HTML5
 - [ ] CSS
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] Node.js
