@@ -11,6 +11,7 @@
 - [ ] [UCLA Bjork Learning and Forgetting Lab](http://bjorklab.psych.ucla.edu/research.html)
 - [ ] [Course: The Fundementals of Neuroscience - Harvard - Online](https://www.mcb80x.org/)
 - [ ] [Institute of Cognitive Neuroscience](http://www.ucl.ac.uk/icn/)
+- [ ] [Wikipedia Article on Self-Regulated Learning](https://www.wikiwand.com/en/Self-regulated_learning#/Four_phases_of_self-regulation)
 
 ## Articles
 - [ ] [Attention Schema Theory - The Atlantic](http://www.theatlantic.com/science/archive/2016/06/how-consciousness-evolved/485558/)
