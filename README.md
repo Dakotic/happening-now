@@ -4,6 +4,7 @@
 - [ ] Complete all three Free Code Camp Certifications
 - [ ] Get a Developer Job
 - [ ] Fix Dual Boot Desktop
+- [ ] :camera: Organize Digital Photographs
 
 ## What I'm working on week of- Jun 13th 2016
 - [ ] Finish Advanced Algorithm Challenges - Free Code Camp

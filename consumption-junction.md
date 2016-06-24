@@ -5,6 +5,7 @@
 - :computer: Free Code Camp - Front End Web Development
 - :books: Eloquent JavaScript
 - :headphones: The Austin 100 - NPR Music
+- :camera: Organize Digital Photographs
 
 ## Up Next - 2016
 - :books: Introduction to Algorithms
